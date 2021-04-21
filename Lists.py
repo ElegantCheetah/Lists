@@ -7,7 +7,8 @@ lists = ['Burgers', 'Pizza', 'Shakes', 'Candy', 'Fries', 'Sandwhich', 'Salad', '
 
 list2 = ['Dr. Pepper', 'Sprite', 'Coke', 'Lemonade', 'Pepsi']
 
-lists.append(list2)
+for x in list2:
+    lists.append(x)
 
 print(lists)
 print(len(lists))

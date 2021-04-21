@@ -12,3 +12,6 @@ lists.append(list2)
 print(lists)
 print(len(lists))
 print(type(lists))
+
+for lists in lists:
+    print(lists)

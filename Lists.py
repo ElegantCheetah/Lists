@@ -4,7 +4,6 @@
 # 4/21/21
 
 import os
-os.system("pause")
 
 lists = ['Burgers', 'Pizza', 'Shakes', 'Candy', 'Fries', 'Sandwhich', 'Salad', 'Fruit', 'Veggies', 'Water']
 

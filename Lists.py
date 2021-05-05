@@ -36,7 +36,7 @@ os.system("pause")
 y = 0
 for x in lists:
     y+=1
-    print(str(y) + '. ' + x)
+    print(y,':', x)
 
-for list2, x in enumerate(lists):
+for list2, x in enumerate(lists,0):
     print (lists, x)
